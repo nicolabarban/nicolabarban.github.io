@@ -7,7 +7,7 @@ single_layout_gallery:
     alt: "single layout with header example"
   - image_path: /assets/images/mm-layout-single-meta.png
     alt: "single layout with comments and related posts"
-modified: 2016-10-06T23:02:37-04:00
+modified: 2017-01-24T10:52:47-05:00
 ---
 
 {% include toc icon="columns" title="Included Layouts" %}
@@ -183,6 +183,16 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 ```
 
+If you'd rather have a paginated page of posts reside in a subfolder instead of acting as your homepage make the following adjustments.
+
+Create `index.html` in the location you'd like. For example if I wanted it to live at **/blog** I'd create `/blog/index.html` with `layout: home` in its YAML Front Matter.
+
+Then adjust the `paginate_path` in **_config.yml** to match.
+
+```yaml
+paginate_path: /blog/page:num
+``` 
+
 **Note:** Jekyll can only paginate a single `index.html` file. If you'd like to paginate more pages (e.g. category indexes) you'll need the help of a custom plugin. For more pagination related settings check the [**Configuration**]({{ "/docs/configuration/#paginate" | absolute_url }}) section.
 {: .notice--info}
 
@@ -333,16 +343,19 @@ defaults:
 
 The theme comes pre-built with a selection of links for the most common social media networks. These are all optional and can be [assigned in `_config.yml`]({{ "/docs/configuration/" | absolute_url }}).
 
-To add more links you'll need to crack open [`_includes/author-profile.html`](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/author-profile.html) and make some edits.
+To add more links you'll need to crack open [`_includes/author-profile-custom-links.html`](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/author-profile-custom-links.html) and add the appropriate `<li>` markup shown below. 
 
-Inside of `<ul class="author__urls">` you'll find `<li>` elements wrapped in Liquid conditionals. These represent each of the possible links you can currently add to the sidebar.
+**Please note:** Links added here will appear after the ones in [`_includes/author-profile.html`](https://github.com/mmistakes/minimal-mistakes/blob/master/_includes/author-profile.html). If you'd like to change the order of appearance you'll need to edit that file directly.
+{: .notice--info}
 
-#### Example of Twitter link
+#### Social network link example
 
 ```html
-{% raw %}{% if author.twitter %}
-  <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-{% endif %}{% endraw %}
+<li>
+  <a href="https://whatever-social-network.com/username">
+    <i class="fa fa-fw" aria-hidden="true"></i> Awesome Social Network
+  </a>
+</li>
 ```
 
 To add a new link you'll need three things:
@@ -351,7 +364,7 @@ To add a new link you'll need three things:
 2. [Font Awesome icon](http://fontawesome.io/icons/) (`fa-` class)
 3. Label for the link
 
-It's up to you if you want to wrap it in a `{% raw %}{% if %} ... {% endif %}{% endraw %}`conditional and add variables to `_config.yml`. If you don't plan to change it then hard-coding the strings is perfectly acceptable.
+It's up to you if you want to wrap it in a `{% raw %}{% if %} ... {% endif %}{% endraw %}`conditional and add a variable to `_config.yml`. If you don't plan to change it then hard-coding the string is perfectly acceptable.
 
 Let's run through how you'd add a new link that points to a Reddit profile. Starting with the three things from above:
 
@@ -362,13 +375,21 @@ Let's run through how you'd add a new link that points to a Reddit profile. Star
 And plug them into the appropriate locations:
 
 ```html
-<li><a href="[1]"><i class="fa fa-fw [2]" aria-hidden="true"></i> [3]</a></li>
+<li>
+  <a href="[1]">
+    <i class="fa fa-fw [2]" aria-hidden="true"></i> [3]
+  </a>
+</li>
 ```
 
 To end up with:
 
 ```html
-<li><a href="https://www.reddit.com/user/username"><i class="fa fa-fw fa-reddit" aria-hidden="true"></i> Reddit</a></li>
+<li>
+  <a href="https://www.reddit.com/user/username">
+    <i class="fa fa-fw fa-reddit" aria-hidden="true"></i> Reddit
+  </a>
+</li>
 ```
 
 ![Reddit link in author profile]({{ "/assets/images/mm-author-profile-reddit-gs.png" | absolute_url }})
