@@ -11,7 +11,7 @@ title                    : "Sociogenome.com"
 title_separator          : "-"
 name                     : "Sociogenome"
 description              : "The website of the Sociogenome team at the University of Oxford"
-url                      : http://www.sociogenome.com
+url                      : 
 baseurl                  : /sociogenome
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

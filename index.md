@@ -23,7 +23,7 @@ My main interest is to combine genomics and social sciences. I am currently work
 * Life course
 * Migration and Ethnicity
 
-Find my Curriculum Vitae here: [CV](assets/BarbanNicola_cvOctober16.pdf)
+Find my Curriculum Vitae here: [CV](Barban_cvJune2017.pdf)
 
 
 
