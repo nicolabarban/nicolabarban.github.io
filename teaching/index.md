@@ -8,9 +8,12 @@ header:
   overlay_image: /assets/images/eye.jpg
   caption: "Photo credit: [**Nicola Barban**](http://nicolabarban.com/photography)"
 ---
+![img](19551384_10155538370267139_1301918205_o.jpg)
 
-I am  teaching the course     **Demography** for the  BA in Human Sciences at the University of Oxford during the Michealmas and Hilary term 2015.
+I am  teaching the course     **Demography** for the  BA in Human Sciences at the University of Oxford during the Michealmas and Hilary term 2016/2017.
 
+
+I am one of the organizer and instructors of the [NCRM Oxford Socio-genetics Summer school](http://www.oxfordsociogenetics.com). 
 ## Previous teaching:
 
 * **Intermediate Quantitative Methods**.  MSc Sociology. University of Oxford.

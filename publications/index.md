@@ -21,7 +21,9 @@ header:
 </section><!-- /#table-of-contents -->
 
 ## Peer-reviewed articles:
-* Barban N, et. al.  and M.C. Mills (2016) Genome-wide analysis identifies 12 loci influencing human reproductive behavior. **Nature Genetics**, [doi: 10.1038/ng.3698](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)	[Press release](http://www.sociogenome.com/data/FAQlanguages); [Frequently Asked Questions (FAQ)](http://www.sociogenome.com/data/NG2016FAQ); [Data](http://www.sociogenome.com/data)
+* M.C. Mills, **N. Barban** and F.C. Tropf (2017) The power of polygenic scores of reproductive behavior and their relationship to other fertility traits. **Russel Sage Journal of Social Science** *(forthcoming)*
+
+* **Barban N**, et. al.  and M.C. Mills (2016) Genome-wide analysis identifies 12 loci influencing human reproductive behavior. **Nature Genetics**, [doi: 10.1038/ng.3698](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)	[Press release](http://www.sociogenome.com/data/FAQlanguages); [Frequently Asked Questions (FAQ)](http://www.sociogenome.com/data/NG2016FAQ); [Data](http://www.sociogenome.com/data)
 
 * Divya Mehta, Felix C Tropf, Jacob Gratten, Andrew Bakshi, Zhihong Zhu, Silviu-Alin Bacanu, Gibran Hemani, Patrik KE Magnusson, **Nicola Barban**, Tõnu Esko, Andres Metspalu, Harold Snieder, Bryan J Mowry, Kenneth S Kendler, Jian Yang, Peter M Visscher, John J McGrath, Melinda C Mills, Naomi R Wray, S Hong Lee, Ole A Andreassen, Elvira Bramon, Richard Bruggeman, Joseph D Buxbaum, Murray J Cairns, Rita M Cantor, C Robert Cloninger, David Cohen, Benedicto Crespo-Facorro, Ariel Darvasi, Lynn E DeLisi, Timothy Dinan, Srdjan Djurovic, Gary Donohoe, Elodie Drapeau, Valentina Escott-Price, Nelson B Freimer, Lyudmila Georgieva, Lieuwe de Haan, Frans A Henskens, Inge Joa, Antonio Julià, Andrey Khrunin, Bernard Lerer, Svetlana Limborska, Carmel M Loughland, Milan Macek, Sara Marsal, Robert W McCarley, Andrew M McIntosh, Andrew McQuillin, Bela Melegh, Patricia T Michie, Derek W Morris, Kieran C Murphy, Inez Myin-Germeys, Ann Olincy, Jim Van Os, Christos Pantelis, Danielle Posthuma, Digby Quested, Ulrich Schall, Rodney J Scott, Larry J Seidman, Draga Toncheva, Paul A Tooney, John Waddington, Daniel R Weinberger, Mark Weiser, Jing Qin Wu (2016), “Evidence for Genetic Overlap Between Schizophrenia and Age at First Birth in Women,'' **JAMA psychiatry**
 
@@ -47,11 +49,11 @@ _Media coverage: Fox News; New York Daily News; Business Insider; La Stampa; El 
 
 
 ## Manuscripts under review:
-* **N. Barban**, De Luna X., Svensson I. and Billari, F.C. “Causal effects of the timing of life course events: age at retirement and subsequent health.” _revise-and-resubmit_
+* **N. Barban**, De Luna X., Svensson I. and Billari, F.C. “Causal effects of the timing of life course events: age at retirement and subsequent health.”** _revise-and-resubmit_** [SocArXiv](https://osf.io/preprints/socarxiv/rqwpf/)
 
 * **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. ``Assortative Mating on Education: A Genetic Assessment'' [Link to the paper](http://www.economics.ox.ac.uk/materials/papers/14450/paper-791.pdf) March 2016 _Under Review_
 
-* Balbo N., **Barban N.** and M.C. Mills, “Cross-Friend Effects on Marriage and Childbearing as Inter- related Family-Formation Processes,” Working Papers , “Carlo F. Dondena” Centre for Research on Social Dynamics (DONDENA), Universit ́a Commerciale Luigi Bocconi. **Under review** [link](http://www.dondena.unibocconi.it/wps/wcm/connect/Cdr/Centro_Dondena/Home/Working+Papers/Working_Paper_56_CdR_Dondena)
+* Balbo N., **Barban N.** and M.C. Mills, “Cross-Friend Effects on Marriage and Childbearing as Inter- related Family-Formation Processes,” Working Papers , “Carlo F. Dondena” Centre for Research on Social Dynamics (DONDENA), Universit ́a Commerciale Luigi Bocconi. **Revise-and-Resubmit** [link](http://www.dondena.unibocconi.it/wps/wcm/connect/Cdr/Centro_Dondena/Home/Working+Papers/Working_Paper_56_CdR_Dondena)
 
 * M. Djundeva, M. Mills and **N. Barban**, “ A life course approach to the relationship between health inequalities and marital trajectories.” **Under review**
 
@@ -64,9 +66,3 @@ _Media coverage: Fox News; New York Daily News; Business Insider; La Stampa; El 
 
 * **Barban N.** (2006), “La scuola” in Immigrazione straniera in Veneto. Dati demografici, dinamiche del lavoro, inserimento sociale. Rapporto 2005. Franco Angeli, Milano.
 
-## Work in progress:
-* **N. Barban**, Jornt Mandemakers, Harold Snieder, Social Science Genetics Association Consortium and M. Mills. “A meta-GWAS (genetic-wide association search) of fertility tempo and quantum.” _Currently finished discovery phase, replication underway._
-
-* **N. Barban**, M. Mills, J.J. Mandemakers, and H. Snieder. Using Genetic Markers as Instrumental Variables to Unravel the Link between Education and Fertility. _Paper presented at Population Association of America Annual Meeting 2014_.
-
-* J.J. Mandemakers, J.J., M. Mills, **N. Barban**, and H. Snieder. Do Genetic Markers for Infertility Problems Predict Childlessness and Completed Fertility? _Paper presented at Population Association of America Annual Meeting 2014._
