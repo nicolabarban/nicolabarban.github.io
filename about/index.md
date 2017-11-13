@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Nicola Barban**](http://nicolabarban.com/photography)"
 ---
 
-I am a Reader (Associate Professor) at the Institute for Social and Economic Research (ISER) at the University of Essex and a co-Director of the  ESRC Research Centre on Micro-Social Change (MiSoC).  I am also  a Associate  Fellow at Nuffield College. I did my  PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Essex, I worked as Senior Research Associate at the University of Oxford.
+I am a Reader (Associate Professor) at the Institute for Social and Economic Research (ISER) at the University of Essex and a co-Director of the  ESRC Research Centre on Micro-Social Change (MiSoC).  I am also  an Associate  Fellow at Nuffield College. I did my  PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Essex, I worked as Senior Research Associate at the University of Oxford.
 
 ***
 
