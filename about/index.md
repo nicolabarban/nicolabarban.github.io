@@ -10,11 +10,9 @@ header:
   caption: "Photo credit: [**Nicola Barban**](http://nicolabarban.com/photography)"
 ---
 
-I am a Senior Research Fellow  in the Department of Sociology at the University of Oxford.  I am also  a Research Fellow at Nuffield College. I did my  PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Oxford, I worked as postdoctoral researcher at the University of Groningen, The Netherlands.
+I am a Reader (Associate Professor) at the Institute for Social and Economic Research (ISER) at the University of Essex and a co-Director of the  ESRC Research Centre on Micro-Social Change (MiSoC).  I am also  a Associate  Fellow at Nuffield College. I did my  PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Essex, I worked as Senior Research Associate at the University of Oxford.
 
 ***
-
-My main interest is to combine genomics and social sciences. I am currently working on [**Sociogenome**](http://www.sociogenome.com), an exciting project on gene-environment interactions in fertility behaviour funded by the European Research Council (PI, Melinda Mills). I am also coordinating a large meta-GWAS on fertility traits [link](https://osf.io/53tea/). 
 
 
 ## Research interests:
@@ -26,7 +24,7 @@ My main interest is to combine genomics and social sciences. I am currently work
 * Life course
 * Migration and Ethnicity
 
-Find my Curriculum Vitae here: [CV](assets/BarbanNicola_cvOctober16.pdf)
+Find my Curriculum Vitae here: [CV](assets/BarbanNicola_cvNovember17.pdf)
 
 
 
