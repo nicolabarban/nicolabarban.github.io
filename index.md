@@ -7,11 +7,9 @@ header:
 ---
 
 
-I am a Senior Research Fellow  in the Department of Sociology at the University of Oxford.  I am also  a Research Fellow at Nuffield College. I did my  PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Oxford, I worked as postdoctoral researcher at the University of Groningen, The Netherlands.
+I am a Reader (Associate Professor) at the Institute for Social and Economic Research (ISER) at the University of Essex and a co-Director of the ESRC Research Centre on Micro-Social Change (MiSoC). I am also an Associate Fellow at Nuffield College, University of Oxford. I did my PhD in Statistical Sciences at the University of Padova, Italy. Before moving to Essex, I worked as Senior Research Associate at the University of Oxford and as postdoctoral researcher at University of Groningen.
 
 ***
-
-My main interest is to combine genomics and social sciences. I am currently working on [**Sociogenome**](http://www.sociogenome.com), an exciting project on gene-environment interactions in fertility behaviour funded by the European Research Council (PI, Melinda Mills). I am also coordinating a large meta-GWAS on fertility traits [link](https://osf.io/53tea/). 
 
 
 ## Research interests:
