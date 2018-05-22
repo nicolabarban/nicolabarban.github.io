@@ -21,11 +21,12 @@ header:
 </section><!-- /#table-of-contents -->
 
 ## Peer-reviewed articles:
-* **N. Barban**, De Luna X., Svensson I. and Billari, F.C. “Causal effects of the timing of life course events: age at retirement and subsequent health. *(forthcoming)* ”**Sociological Methods and Research** [SocArXiv](https://osf.io/preprints/socarxiv/rqwpf/)
 
-* F.C. Tropf, S. Lee , R. Verweij, G. Stulp, P. van der Most, R. de Vlaming, A. Bakshi, D. Briley, C. Rahal, R. Hellpap, A. Nyman , T. Esko, A. Metspalu, S. Medland, N. Martin, **N. Barban** , H. Snieder, M. Robinson , M. Mills. *(forthcoming)* Mega-analysis quantifies hidden heritability for human reproductive behavior and education due to heterogeneity across seven populations" **Nature Human Behavior**
+* M.C. Mills, **N. Barban** and F.C. Tropf (2018) [The Sociogenomics of Polygenic Scores of Reproductive Behavior and Their Relationship to Other Fertility Traits.](https://www.rsfjournal.org/doi/full/10.7758/RSF.2018.4.4.07) **Russel Sage Journal of Social Science**  4(4), pp. 122–136 
 
-* M.C. Mills, **N. Barban** and F.C. Tropf *(forthcoming)* The power of polygenic scores of reproductive behavior and their relationship to other fertility traits. **Russel Sage Journal of Social Science** 
+* **N. Barban**, De Luna X., Svensson I. and Billari, F.C. [“Causal effects of the timing of life course events: age at retirement and subsequent health."](http://journals.sagepub.com/doi/pdf/10.1177/0049124117729697) (2018) ”**Sociological Methods and Research** 
+
+* F.C. Tropf, S. Lee , R. Verweij, G. Stulp, P. van der Most, R. de Vlaming, A. Bakshi, D. Briley, C. Rahal, R. Hellpap, A. Nyman , T. Esko, A. Metspalu, S. Medland, N. Martin, **N. Barban** , H. Snieder, M. Robinson , M. Mills. (2018) ["Mega-analysis quantifies hidden heritability for human reproductive behavior and education due to heterogeneity across seven populations"](https://www.gertstulp.com/pdf/2017_Tropf_et_al_Nature%20Human%20Behaviour_Heritability.pdf) **Nature Human Behavior** 1(10):757-765. doi: 10.1038/s41562-017-0195-1.
 
 * **Barban N**, et. al.  and M.C. Mills (2016) Genome-wide analysis identifies 12 loci influencing human reproductive behavior. **Nature Genetics**, [doi: 10.1038/ng.3698](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)	[Press release](http://www.sociogenome.com/data/FAQlanguages); [Frequently Asked Questions (FAQ)](http://www.sociogenome.com/data/NG2016FAQ); [Data](http://www.sociogenome.com/data)
 
