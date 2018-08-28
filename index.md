@@ -21,7 +21,7 @@ I am a Reader (Associate Professor) at the Institute for Social and Economic Res
 * Life course
 * Migration and Ethnicity
 
-Find my Curriculum Vitae here: [CV](Barban_cvAUG2018.pdf)
+Find my Curriculum Vitae here: [CV](Barban_cvAug2018.pdf)
 
 
 
