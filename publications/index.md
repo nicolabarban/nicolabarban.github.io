@@ -26,7 +26,7 @@ header:
 
 * **N. Barban**, De Luna X., Svensson I. and Billari, F.C. [“Causal effects of the timing of life course events: age at retirement and subsequent health."](http://journals.sagepub.com/doi/pdf/10.1177/0049124117729697) (2018) ”**Sociological Methods and Research** [Supplementary Information](http://nicolabarban.com/RetirementSweden/)
 
-* F.C. Tropf, S. Lee , R. Verweij, G. Stulp, P. van der Most, R. de Vlaming, A. Bakshi, D. Briley, C. Rahal, R. Hellpap, A. Nyman , T. Esko, A. Metspalu, S. Medland, N. Martin, **N. Barban** , H. Snieder, M. Robinson , M. Mills. (2018) ["Mega-analysis quantifies hidden heritability for human reproductive behavior and education due to heterogeneity across seven populations"](https://www.gertstulp.com/pdf/2017_Tropf_et_al_Nature%20Human%20Behaviour_Heritability.pdf) **Nature Human Behavior** 1(10):757-765. doi: 10.1038/s41562-017-0195-1.
+* F.C. Tropf, S. Lee , R. Verweij, G. Stulp, P. van der Most, R. de Vlaming, A. Bakshi, D. Briley, C. Rahal, R. Hellpap, A. Nyman , T. Esko, A. Metspalu, S. Medland, N. Martin, **N. Barban** , H. Snieder, M. Robinson , M. Mills. (2018) ["Hidden heritability due to heterogeneity across seven populations"](https://www.gertstulp.com/pdf/2017_Tropf_et_al_Nature%20Human%20Behaviour_Heritability.pdf) **Nature Human Behavior** 1(10):757-765. doi: 10.1038/s41562-017-0195-1.
 
 * **Barban N**, et. al.  and M.C. Mills (2016) Genome-wide analysis identifies 12 loci influencing human reproductive behavior. **Nature Genetics**, [doi: 10.1038/ng.3698](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3698.html)	[Press release](http://www.sociogenome.com/data/FAQlanguages); [Frequently Asked Questions (FAQ)](http://www.sociogenome.com/data/NG2016FAQ); [Data](http://www.sociogenome.com/data)
 
@@ -48,20 +48,22 @@ _Media coverage: Fox News; New York Daily News; Business Insider; La Stampa; El 
 
 * **Barban N** and F. C. Billari, (2012) “Classifying life course trajectories. A comparison between la- tent class and sequence analysis,” **Journal of the Royal Statistical Society Series C (Applied Statistics)**, 61(5):765–784. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2012.01047.x/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+on+9+June+from+10%3A00-12%3A00+BST+%2805%3A00-07%3A00+EDT%29+for+essential+maintenance)
 
-* **Barban N.** and M.J. White, (2011) “Immigrants children`s transition to secondary school in Italy.” **International Migration Review**, 45(3): 702–726. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7379.2011.00863.x/abstract)
+* **Barban N.** and M.J. White, (2011) “Immigrants children's transition to secondary school in Italy.” **International Migration Review**, 45(3): 702–726. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7379.2011.00863.x/abstract)
 
 * **Barban N.** and G. Dalla Zuanna, (2010) “A portrait of immigrant childrens housing experiences in Italy.” **Housing Studies**, 25(4): 559–584. [link](http://www.tandfonline.com/doi/abs/10.1080/02673031003712053?journalCode=chos20&)
 
 
 ## Manuscripts under review:
 
-* **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. ``Assortative Mating on Education: A Genetic Assessment'' [Link to the paper](http://www.economics.ox.ac.uk/materials/papers/14450/paper-791.pdf) March 2016 _Under Review_
+* **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. "Assortative Mating on Education: A Genetic Assessment'' [Link to the paper](http://www.economics.ox.ac.uk/materials/papers/14450/paper-791.pdf) March 2016 _Under Review_
 
 * Balbo N., **Barban N.** and M.C. Mills, “Cross-Friend Effects on Marriage and Childbearing as Inter- related Family-Formation Processes,” Working Papers , “Carlo F. Dondena” Centre for Research on Social Dynamics (DONDENA), Universit ́a Commerciale Luigi Bocconi. **Revise-and-Resubmit Journal of Marriage and Family** [link](http://www.dondena.unibocconi.it/wps/wcm/connect/Cdr/Centro_Dondena/Home/Working+Papers/Working_Paper_56_CdR_Dondena)
 
 * M. Djundeva, M. Mills and **N. Barban**, “ A life course approach to the relationship between health inequalities and marital trajectories.” **Under review**
 
 ## Chapters in books
+* **Barban, N.**  and M. Sironi (2018) "Sequence Analysis as a Tool for Family  Demography,'' in Analytical Family Demography, The Springer Series on Demographic Methods and Population Analysis, Ed. R. Schoen , Germany: Springer. 
+
 * **Barban, N.** and D. Linder (2013) “Mathematical Modelling in Life Course Research,” in Cumula- tive Life Course Impairment in Dermatological Diseases, Ed. Kimball, A. , Linder, D. , Germany: Karger. 
 
 * Dalla Zuanna G. and **N. Barban** (2008) “Le seconde generazioni in Veneto”, in Studiare insieme, crescere insieme? Franco Angeli, Milano.
