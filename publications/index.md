@@ -32,25 +32,25 @@ header:
 
 * Divya Mehta, Felix C Tropf, Jacob Gratten, Andrew Bakshi, Zhihong Zhu, Silviu-Alin Bacanu, Gibran Hemani, Patrik KE Magnusson, **Nicola Barban**, Tõnu Esko, Andres Metspalu, Harold Snieder, Bryan J Mowry, Kenneth S Kendler, Jian Yang, Peter M Visscher, John J McGrath, Melinda C Mills, Naomi R Wray, S Hong Lee, Ole A Andreassen, Elvira Bramon, Richard Bruggeman, Joseph D Buxbaum, Murray J Cairns, Rita M Cantor, C Robert Cloninger, David Cohen, Benedicto Crespo-Facorro, Ariel Darvasi, Lynn E DeLisi, Timothy Dinan, Srdjan Djurovic, Gary Donohoe, Elodie Drapeau, Valentina Escott-Price, Nelson B Freimer, Lyudmila Georgieva, Lieuwe de Haan, Frans A Henskens, Inge Joa, Antonio Julià, Andrey Khrunin, Bernard Lerer, Svetlana Limborska, Carmel M Loughland, Milan Macek, Sara Marsal, Robert W McCarley, Andrew M McIntosh, Andrew McQuillin, Bela Melegh, Patricia T Michie, Derek W Morris, Kieran C Murphy, Inez Myin-Germeys, Ann Olincy, Jim Van Os, Christos Pantelis, Danielle Posthuma, Digby Quested, Ulrich Schall, Rodney J Scott, Larry J Seidman, Draga Toncheva, Paul A Tooney, John Waddington, Daniel R Weinberger, Mark Weiser, Jing Qin Wu (2016), “Evidence for Genetic Overlap Between Schizophrenia and Age at First Birth in Women,'' **JAMA psychiatry**
 
-* Sironi M., **N. Barban** and R. Impicciatore (2015), “The Role of Parental Social Class in the Transition to Adulthood,” **Advances in Life Course Research** 26, 89-104 [link](http://www.sciencedirect.com/science/article/pii/S1040260815000532)
+* Sironi M., **N. Barban** and R. Impicciatore (2015), [“The Role of Parental Social Class in the Transition to Adulthood,”](http://www.sciencedirect.com/science/article/pii/S1040260815000532) **Advances in Life Course Research** 26, 89-104 
 
-* F. C. Tropf, G. Stulp,**N. Barban** , P. M. Visscher, J. Yangd, H. Snieder, M. Mills (2015). "Human Fertility, Molecular Genetics, and Natural Selection in Modern Societies" **PLOS ONE** 10 (6), e0126821  [link](http://www.tandfonline.com/doi/abs/10.1080/00324728.2015.1056823#.ViAIMrwu9_g) 
+* F. C. Tropf, G. Stulp,**N. Barban** , P. M. Visscher, J. Yangd, H. Snieder, M. Mills (2015). ["Human Fertility, Molecular Genetics, and Natural Selection in Modern Societies"](http://www.tandfonline.com/doi/abs/10.1080/00324728.2015.1056823#.ViAIMrwu9_g)  **PLOS ONE** 10 (6), e0126821  
 _Media coverage:[The Guardian](https://www.theguardian.com/science/2015/jun/03/genetics-plays-role-in-deciding-at-what-age-women-have-first-child-says-study);[openpop.org](http://www.openpop.org/?p=1111)_
 
-* F. C. Tropf,**N. Barban** , H. Snieder, M. Mills, J.J. Mandemakers (2015) "A Behavioural Genetic Study of Age at First Birth of Female UK Twins" **Population Studies**  69 (2), 129-145  [link](http://www.tandfonline.com/doi/abs/10.1080/00324728.2015.1056823#.ViAIMrwu9_g)
+* F. C. Tropf,**N. Barban** , H. Snieder, M. Mills, J.J. Mandemakers (2015) ["A Behavioural Genetic Study of Age at First Birth of Female UK Twins"](http://www.tandfonline.com/doi/abs/10.1080/00324728.2015.1056823#.ViAIMrwu9_g) **Population Studies**  69 (2), 129-145  
 
-* N. Balbo and **N. Barban**, (2014). "Does fertility behavior spread among friends?" **American Sociological Review**, 79(3):412-431 [link](http://asr.sagepub.com/content/79/3/412.abstract)
+* N. Balbo and **N. Barban**, (2014). ["Does fertility behavior spread among friends?"](http://asr.sagepub.com/content/79/3/412.abstract) **American Sociological Review**, 79(3):412-431 
 _Media coverage: Fox News; New York Daily News; Business Insider; La Stampa; El Mundo; Le Figaro_
 
-* **N. Barban**, “Family trajectories and health: A life course perspective,” (2013) **European Journal of Population**, 29(4):357-385 [link](http://link.springer.com/article/10.1007%2Fs10680-013-9296-3)
+* **N. Barban**, [“Family trajectories and health: A life course perspective,”](http://link.springer.com/article/10.1007%2Fs10680-013-9296-3) (2013) **European Journal of Population**, 29(4):357-385 
 
-* Minello A. and **N. Barban**, (2012) “The educational expectations of children of immigrants in Italy,” **The Annals of the American Academy of Political and Social Sciences**, 643(1): 78–103. [link](http://ann.sagepub.com/content/643/1/78.full.pdf+html)
+* Minello A. and **N. Barban**, (2012) [“The educational expectations of children of immigrants in Italy,”](http://ann.sagepub.com/content/643/1/78.full.pdf+html) **The Annals of the American Academy of Political and Social Sciences**, 643(1): 78–103. 
 
-* **Barban N** and F. C. Billari, (2012) “Classifying life course trajectories. A comparison between la- tent class and sequence analysis,” **Journal of the Royal Statistical Society Series C (Applied Statistics)**, 61(5):765–784. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2012.01047.x/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+on+9+June+from+10%3A00-12%3A00+BST+%2805%3A00-07%3A00+EDT%29+for+essential+maintenance)
+* **Barban N** and F. C. Billari, (2012) [“Classifying life course trajectories. A comparison between la- tent class and sequence analysis,”](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2012.01047.x/abstract?systemMessage=Wiley+Online+Library+will+be+disrupted+on+9+June+from+10%3A00-12%3A00+BST+%2805%3A00-07%3A00+EDT%29+for+essential+maintenance) **Journal of the Royal Statistical Society Series C (Applied Statistics)**, 61(5):765–784. 
 
-* **Barban N.** and M.J. White, (2011) “Immigrants children's transition to secondary school in Italy.” **International Migration Review**, 45(3): 702–726. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7379.2011.00863.x/abstract)
-
-* **Barban N.** and G. Dalla Zuanna, (2010) “A portrait of immigrant childrens housing experiences in Italy.” **Housing Studies**, 25(4): 559–584. [link](http://www.tandfonline.com/doi/abs/10.1080/02673031003712053?journalCode=chos20&)
+* **Barban N.** and M.J. White, (2011) [“Immigrants children's transition to secondary school in Italy.”](http://onlinelibrary.wiley.com/doi/10.1111/j.1747-7379.2011.00863.x/abstract)
+ **International Migration Review**, 45(3): 702–726. 
+* **Barban N.** and G. Dalla Zuanna, (2010) [“A portrait of immigrant childrens housing experiences in Italy.”](http://www.tandfonline.com/doi/abs/10.1080/02673031003712053?journalCode=chos20&) **Housing Studies**, 25(4): 559–584. 
 
 
 ## Manuscripts under review:
