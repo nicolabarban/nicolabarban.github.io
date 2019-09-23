@@ -19,8 +19,15 @@ header:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
+## Books: 
+
+* M.C. Mills, **N. Barban** and F.C. Tropf (2020) [An Introduction to Statistical Genetic Data Analysis](https://mitpress.mit.edu/books/introduction-statistical-genetic-data-analysis) **MIT Press**  
+
+*A comprehensive introduction to modern applied statistical genetic data analysis, accessible to those without a background in molecular biology or genetics.*
 
 ## Peer-reviewed articles:
+
+* Xuejie Ding, **N. Barban**,  M.C. Mills and F.C. Tropf (2019)  [The relationship between cognitive decline and a genetic predictor ofeducational attainment](https://reader.elsevier.com/reader/sd/pii/S027795361930543X?token=C0D83A7A794B54EC4BBFF434DB7B7D7DB4A6C6F128E0541804981362566FF9EC3820D2C0299AFD18FFFE41FC764396D7) **Social Science and Medicine** (239) 11549
 
 * M.C. Mills, **N. Barban** and F.C. Tropf (2018) [The Sociogenomics of Polygenic Scores of Reproductive Behavior and Their Relationship to Other Fertility Traits.](https://www.rsfjournal.org/doi/full/10.7758/RSF.2018.4.4.07) **Russel Sage Journal of Social Science**  4(4), pp. 122–136 
 
