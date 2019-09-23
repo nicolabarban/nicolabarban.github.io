@@ -19,6 +19,7 @@ header:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
+
 ## Books: 
 
 * M.C. Mills, **N. Barban** and F.C. Tropf (2020) [An Introduction to Statistical Genetic Data Analysis](https://mitpress.mit.edu/books/introduction-statistical-genetic-data-analysis) **MIT Press**  
