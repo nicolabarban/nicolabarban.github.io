@@ -3,7 +3,6 @@ layout: single
 author_profile: true
 header:
   image: "/assets/images/header_genpop.png"
-
 ---
 
 # Genes, genealogies and the evolution of demographic change and social inequality
