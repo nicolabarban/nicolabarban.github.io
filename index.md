@@ -7,7 +7,7 @@ header:
 ---
 
 
-I am Professor of Demography at the Alma Mater Studiorum University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC). I am the Principal invesitgator of the ERC Starting Grant [**GENPOP**](www.genpop.org)
+I am Professor of Demography at the Alma Mater Studiorum University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC). I am the Principal invesitgator of the ERC Consolidator Grant [**GENPOP**](www.genpop.org)
 
 
 ## Research interests:
