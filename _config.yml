@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Nicola Barban"
 title_separator          : "-"
 name                     : "Nicola Barban"
-description              : "Reader (Associate Professor), University of Essex"
+description              : "Professor, University of Bologna"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Nicola Barban"
   avatar           : "/assets/images/fotomia.jpg"
-  bio              : "Reader (Associate Professor), University of Essex"
-  location         : "Wivenhoe, UK"
-  email            : "nicola.barban@essex.ac.uk"
+  bio              : "Professor, University of Bologna"
+  location         : "Bologna, Italy"
+  email            : "nicola.barban@unibo.it"
   uri              :
   bitbucket        :
   codepen          :
