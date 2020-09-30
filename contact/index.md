@@ -10,28 +10,20 @@ header:
 ---
 
 
+Nicola Barban
 
-Dr. Nicola Barban
+Professor of Demography,
 
-Senior Research Associate, 
-
-Department of Sociology
+Department of Statistics
 
 
 # Address:
 
-University of Oxford
+University of Bologna
 
-Manor Road
+Via Belle Arti, 41
+Bologna - Italy
 
-Oxford
+# e-mail:
 
-OX1 3UQ
-
-# e-mail: 
-
-   `nicola.barban (at) sociology.ox.ac.uk`
-   
-  `nicola.barban (at) nuffield.ox.ac.uk`
-	
-
+   `nicola.barban (at) unibo.it`
