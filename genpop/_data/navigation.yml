@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Team"
+    url: /team/
+  - title: "Data and Code"
+    url: /data/
+  - title: "Publications"
+    url: /publications/
+  - title: "Vacancies"
+    url: /vacancies/
+  # - title: "Sitemap"
+  #   url: /sitemap/
