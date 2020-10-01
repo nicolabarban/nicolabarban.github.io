@@ -11,7 +11,9 @@ I am Professor of Demography at the  University of Bologna and an international 
 
  I am the Principal investigator of the ERC Consolidator Grant [**GENPOP**](http://nicolabarban.com/genpop): **Genes, genealogies and the evolution of demographic change and social inequality**
 
- ![img = 570x360, 50%](assets/images/UniBo-Universita-di-Bologna.png)
+
+ <img src="assets/images/UniBo-Universita-di-Bologna.png" width="200" align="center">
+
 
 
 ## Research interests:
