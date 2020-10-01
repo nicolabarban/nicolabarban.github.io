@@ -7,7 +7,7 @@ header:
 ---
 
 
-I am Professor of Demography at the Alma Mater Studiorum University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC).
+I am Professor of Demography at the  University of Bologna and an international co-investigator of the ESRC Research Centre on Micro-Social Change (MiSoC).
 
  I am the Principal investigator of the ERC Consolidator Grant [**GENPOP**](http://nicolabarban.com/genpop): **Genes, genealogies and the evolution of demographic change and social inequality**
 
