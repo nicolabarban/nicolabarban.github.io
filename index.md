@@ -11,7 +11,7 @@ I am Professor of Demography at the Alma Mater Studiorum University of Bologna a
 
  I am the Principal investigator of the ERC Consolidator Grant [**GENPOP**](www.genpop.org): **Genes, genealogies and the evolution of demographic change and social inequality**
 
- ![img | 570x360, 50%](assets/images/UniBo-Universita-di-Bologna.png)
+ ![img = 570x360, 50%](assets/images/UniBo-Universita-di-Bologna.png)
 
 
 ## Research interests:
