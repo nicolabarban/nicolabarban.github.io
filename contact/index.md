@@ -26,4 +26,4 @@ Bologna - Italy
 
 # e-mail:
 
-   `nicola.barban (at) unibo.it`
+   `n.barban (at) unibo.it`
