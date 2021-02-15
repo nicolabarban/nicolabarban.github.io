@@ -10,11 +10,14 @@ header:
 ---
 ![img](19551384_10155538370267139_1301918205_o.jpg)
 
-I am  teaching the course     **Demography** for the  BA in Human Sciences at the University of Oxford during the Michealmas and Hilary term 2016/2017.
+### **30060 - Laboratorio Bio-Demografico ** [link to material](http://nicolabarban.com/LaboratorioBioDemografico2021/) [Link to Aula virtuale ](https://www.unibo.it/sitoweb/n.barban/didattica)
 
 
-I am one of the organizer and instructors of the [NCRM Oxford Socio-genetics Summer school](http://www.oxfordsociogenetics.com). 
+
 ## Previous teaching:
+*  **Demography** for the  BA in Human Sciences at the University of Oxford during the Michealmas and Hilary term 2016/2017.
+
+*  [NCRM Oxford Socio-genetics Summer school](http://www.oxfordsociogenetics.com). 
 
 * **Intermediate Quantitative Methods**.  MSc Sociology. University of Oxford.
 
