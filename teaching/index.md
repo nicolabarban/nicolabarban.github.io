@@ -10,7 +10,9 @@ header:
 ---
 ![img](19551384_10155538370267139_1301918205_o.jpg)
 
-### **30060 - Laboratorio Bio-Demografico ** [link to material](http://nicolabarban.com/LaboratorioBioDemografico2021/) [Link to Aula virtuale ](https://www.unibo.it/sitoweb/n.barban/didattica)
+### **30060 - Laboratorio Bio-Demografico** 
+ - [link to material](http://nicolabarban.com/LaboratorioBioDemografico2021/)
+ -  [Link to online lectures](https://www.unibo.it/sitoweb/n.barban/didattica)
 
 
 
