@@ -10,12 +10,18 @@ header:
 ---
 ![img](19551384_10155538370267139_1301918205_o.jpg)
 
+## 2020/2021
 ### **30060 - Laboratorio Bio-Demografico** 
  - [link to material](http://nicolabarban.com/LaboratorioBioDemografico2021/)
  -  [Link to online lectures](https://www.unibo.it/sitoweb/n.barban/didattica)
+ 
+### **Conferenza Didattica Unipd** 
+ - [link to material](http://nicolabarban.com/sequence_analysis/)
 
 
 
+
+---
 ## Previous teaching:
 *  **Demography** for the  BA in Human Sciences at the University of Oxford during the Michealmas and Hilary term 2016/2017.
 
