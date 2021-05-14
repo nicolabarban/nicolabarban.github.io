@@ -28,6 +28,10 @@ header:
 
 ## Peer-reviewed articles:
 
+* Melinda C Mills, Felix C Tropf, David M Brazel, Natalie van Zuydam, Ahmad Vaez, Tune H Pers, Harold Snieder, John RB Perry, Ken K Ong, Marcel den Hoed, **Nicola Barban**, Felix R Day, eQTLGen Consortium, BIOS Consortium, Human Reproductive Behaviour Consortium (2021) Identification of 370 genetic loci for age at first sex and birth linked to externalising behaviour **Nature Human Behaviour**
+
+* Maria Sironi, **Nicola Barban**, Luca Maria Pesando, Frank F Furstenberg (2021) A Sequence-Analysis Approach to the Study of the Transition to Adulthood in Low-and Middle-Income Countries **Population Development Review**
+
 * Xuejie Ding, **N. Barban**,  M.C. Mills and F.C. Tropf (2019)  [The relationship between cognitive decline and a genetic predictor ofeducational attainment](https://reader.elsevier.com/reader/sd/pii/S027795361930543X?token=C0D83A7A794B54EC4BBFF434DB7B7D7DB4A6C6F128E0541804981362566FF9EC3820D2C0299AFD18FFFE41FC764396D7) **Social Science and Medicine** (239) 11549
 
 * M.C. Mills, **N. Barban** and F.C. Tropf (2018) [The Sociogenomics of Polygenic Scores of Reproductive Behavior and Their Relationship to Other Fertility Traits.](https://www.rsfjournal.org/doi/full/10.7758/RSF.2018.4.4.07) **Russel Sage Journal of Social Science**  4(4), pp. 122–136 
