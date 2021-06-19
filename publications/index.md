@@ -28,9 +28,11 @@ header:
 
 ## Peer-reviewed articles:
 
+* **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. "The effect of education on spousal education: a genetic approach (2021) **Labour Economics**
+
 * Melinda C Mills, Felix C Tropf, David M Brazel, Natalie van Zuydam, Ahmad Vaez, Tune H Pers, Harold Snieder, John RB Perry, Ken K Ong, Marcel den Hoed, **Nicola Barban**, Felix R Day, eQTLGen Consortium, BIOS Consortium, Human Reproductive Behaviour Consortium (2021) Identification of 370 genetic loci for age at first sex and birth linked to externalising behaviour **Nature Human Behaviour**
 
-* Maria Sironi, **Nicola Barban**, Luca Maria Pesando, Frank F Furstenberg (2021) A Sequence-Analysis Approach to the Study of the Transition to Adulthood in Low-and Middle-Income Countries **Population Development Review**
+* Luca Maria Pesando, Maria Sironi, **Nicola Barban**, Frank F Furstenberg (2021) A Sequence-Analysis Approach to the Study of the Transition to Adulthood in Low-and Middle-Income Countries **Population Development Review**
 
 * Xuejie Ding, **N. Barban**,  M.C. Mills and F.C. Tropf (2019)  [The relationship between cognitive decline and a genetic predictor ofeducational attainment](https://reader.elsevier.com/reader/sd/pii/S027795361930543X?token=C0D83A7A794B54EC4BBFF434DB7B7D7DB4A6C6F128E0541804981362566FF9EC3820D2C0299AFD18FFFE41FC764396D7) **Social Science and Medicine** (239) 11549
 
@@ -64,14 +66,6 @@ _Media coverage: Fox News; New York Daily News; Business Insider; La Stampa; El 
  **International Migration Review**, 45(3): 702–726. 
 * **Barban N.** and G. Dalla Zuanna, (2010) [“A portrait of immigrant childrens housing experiences in Italy.”](http://www.tandfonline.com/doi/abs/10.1080/02673031003712053?journalCode=chos20&) **Housing Studies**, 25(4): 559–584. 
 
-
-## Manuscripts under review:
-
-* **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. "Assortative Mating on Education: A Genetic Assessment'' [Link to the paper](http://www.economics.ox.ac.uk/materials/papers/14450/paper-791.pdf) March 2016 _Under Review_
-
-* Balbo N., **Barban N.** and M.C. Mills, “Cross-Friend Effects on Marriage and Childbearing as Inter- related Family-Formation Processes,” Working Papers , “Carlo F. Dondena” Centre for Research on Social Dynamics (DONDENA), Universit ́a Commerciale Luigi Bocconi. **Revise-and-Resubmit Journal of Marriage and Family** [link](http://www.dondena.unibocconi.it/wps/wcm/connect/Cdr/Centro_Dondena/Home/Working+Papers/Working_Paper_56_CdR_Dondena)
-
-* M. Djundeva, M. Mills and **N. Barban**, “ A life course approach to the relationship between health inequalities and marital trajectories.” **Under review**
 
 ## Chapters in books
 * **Barban, N.**  and M. Sironi (2018) "Sequence Analysis as a Tool for Family  Demography,'' in Analytical Family Demography, The Springer Series on Demographic Methods and Population Analysis, Ed. R. Schoen , Germany: Springer. 
