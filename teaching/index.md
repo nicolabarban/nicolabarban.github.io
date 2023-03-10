@@ -9,8 +9,14 @@ header:
   caption: "Photo credit: [**Nicola Barban**](http://nicolabarban.com/photography)"
 ---
 ![img](19551384_10155538370267139_1301918205_o.jpg)
+## 2022/2023
+### [**95740 -Sociogenomics**](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466942)
+ - [link to material](http://nicolabarban.com/sociogenomics2023/)
+ - 
 ## 2021/2022
 ### [NCRM Course on sequence analysis](http://nicolabarban.com/NCRM_sequence_analysis/) 
+### [**95740 -Sociogenomics**](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/466942)
+ - [link to material](http://nicolabarban.com/sociogenomics2022/)
 
 ## 2020/2021
 ### **30060 - Laboratorio Bio-Demografico** 
