@@ -12,7 +12,7 @@ header:
 ## 2022/2023
 ### [**95740 -Sociogenomics**](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/466942)
  - [link to material](http://nicolabarban.com/sociogenomics2023/)
- - 
+ 
 ## 2021/2022
 ### [NCRM Course on sequence analysis](http://nicolabarban.com/NCRM_sequence_analysis/) 
 ### [**95740 -Sociogenomics**](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/466942)
