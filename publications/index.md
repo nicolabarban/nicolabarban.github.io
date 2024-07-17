@@ -34,7 +34,7 @@ header:
   
 * Cozzani, M; Minardi, S; Corti, G; **Barban, N**, (2023) Birth month and adult lifespan: A within-family, cohort, and spatial examination using FamiLinx data in the United States (1700-1899), **Demographic Research**, 2023, 49, Article number: 9, pp. 201 - 218
 
-* Mathieson, Iain; Day, Felix R; **Barban, Nicola**; Tropf, Felix C; Brazel, David M; ...  Mills, Melinda C; Perry, John R B, Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus, **Nature Human Behaviour**, 2023, 7, pp. 790 - 801 
+* Mathieson, Iain; Day, Felix R; **Barban, Nicola**; Tropf, Felix C; Brazel, David M; ...  Mills, Melinda C; Perry, John R B, (2023) Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus, **Nature Human Behaviour**, 7, pp. 790 - 801 
 
 * **N. Barban**, E. De Cao, C. Quintana-Domeneque and S. Oreffice. "The effect of education on spousal education: a genetic approach (2021) **Labour Economics**
 
