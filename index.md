@@ -18,9 +18,9 @@ I am Professor of Demography at the  University of Bologna and an international 
 
 ## Projects:
 
-* [**GENPOP**](https://github.com/nicolabarban/genpop) — Genes, genealogies and the evolution of demographic change and social inequality (ERC Consolidator Grant)
-* [**demopast**](https://github.com/nicolabarban/demopast) — Historical Demographic Atlas of Italy
-* [**newspop**](https://github.com/nicolabarban/newspop) — News scraper for fertility and demographic decline research using GDELT
+* [**GENPOP**](http://genpop.org) — Genes, genealogies and the evolution of demographic change and social inequality (ERC Consolidator Grant)
+* [**demopast**](http://demopast.it) — Historical Demographic Atlas of Italy
+* [**newspop**](http://nicolabarban.com/newspop/) — News scraper for fertility and demographic decline research using GDELT
 
 ## Research interests:
 
