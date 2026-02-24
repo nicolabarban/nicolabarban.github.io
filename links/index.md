@@ -11,15 +11,15 @@ header:
 
 ## My other websites:
 
-* [Department of Sociology](http://www.sociology.ox.ac.uk/academic-staff/nicola-barban.html)
-* [Nuffield College](http://www.nuffield.ox.ac.uk/People/sites/Nicola.Barban/SitePages/Biography.aspx)
- 
-## Interesting links
+* [University of Bologna — Faculty Page](https://www.unibo.it/sitoweb/n.barban/en)
+* [Google Scholar](https://scholar.google.com/citations?user=cspszw4AAAAJ&hl=en)
 
-* [Social Science Genetic Association Consortium](http://www.ssgac.org)
+## Projects:
+
+* [GENPOP](https://github.com/nicolabarban/genpop) — Genes, genealogies and the evolution of demographic change and social inequality (ERC Consolidator Grant)
+* [demopast](https://github.com/nicolabarban/demopast) — Historical Demographic Atlas of Italy
+* [newspop](https://github.com/nicolabarban/newspop) — News scraper for fertility and demographic decline research using GDELT
 
 ## [Photography](http://nicolabarban.com/photography)
 
 * [My Flickr profile](http://www.flickr.com/photos/34284439@N00)
-
-
