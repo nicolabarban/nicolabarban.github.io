@@ -28,6 +28,8 @@ header:
 
 ## Peer-reviewed articles:
 
+* S. Köksal, **N. Barban**, E. De Cao and M. Francesconi (forthcoming) "A Research Note on Education, Teenage Births and The Role of Genetic Propensities" **Demography** *(accepted)*
+
 * S. Minardi, P. Puschmann and **N. Barban** (2026) [Within Families, Across Borders: Lifespans of U.S. Immigrants Born 1850-1890 Compared to Origins, Destination, and Siblings](https://cris.unibo.it/handle/11585/1027999) **Demography**, 1-27
 
 * S. Minardi, S. Greco and **N. Barban** (2025) [A Comparison of Rule-based and Supervised Machine Learning Approaches for Record Linkage of Italian Historical Data](https://doi.org/10.51964/hlcs18990) **Historical Life Course Studies** 15, 28-46
