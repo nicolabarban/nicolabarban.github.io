@@ -31,4 +31,4 @@ I am Professor of Demography at the  University of Bologna and an international 
 * Life course
 * Migration and Ethnicity
 
-Find my Curriculum Vitae here: [CV](Barban_cvMarch2026.pdf)
+Find my Curriculum Vitae here: [CV (updated June 2026)](Barban_cvJune2026.pdf)
