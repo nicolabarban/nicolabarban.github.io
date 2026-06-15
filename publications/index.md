@@ -28,7 +28,9 @@ header:
 
 ## Peer-reviewed articles:
 
-* S. Köksal, **N. Barban**, E. De Cao and M. Francesconi (forthcoming) "A Research Note on Education, Teenage Births and The Role of Genetic Propensities" **Demography** *(accepted)*
+* R. Omenti, M. Alexander and **N. Barban** (in press) "Bayesian Indirect Estimation of Historical Fertility in Europe and US using Online Genealogical Data" **Sociological Methods and Research** *(in press)*
+
+* S. Köksal, **N. Barban**, E. De Cao and M. Francesconi (in press) "A Research Note on Education, Teenage Births and The Role of Genetic Propensities" **Demography** *(in press)*
 
 * S. Minardi, P. Puschmann and **N. Barban** (2026) [Within Families, Across Borders: Lifespans of U.S. Immigrants Born 1850-1890 Compared to Origins, Destination, and Siblings](https://cris.unibo.it/handle/11585/1027999) **Demography**, 1-27
 
